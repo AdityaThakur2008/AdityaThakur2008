@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**AdityaThakur2008/AdityaThakur2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Aditya 👋
 
-Here are some ideas to get you started:
+💻 Full Stack Developer (MERN + Next.js)  
+🚀 Building real-world projects  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Tech Stack
+- JavaScript
+- React, Next.js
+- Node.js, Express
+- MongoDB
+- JWT Authentication
+
+### 📌 Projects
+- 🔗 LinkedIn Clone (MERN + Next.js)
+- 🎥 Video Calling App
+- 🏠 Airbnb Clone
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/aditya-thakur-4a4151369/
