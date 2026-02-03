@@ -15,7 +15,6 @@
 ### 📌 Projects
 - 🔗 LinkedIn Clone (MERN + Next.js)
 - 🎥 Video Calling App
-- 🏠 Airbnb Clone
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/aditya-thakur-4a4151369/
