@@ -103,4 +103,4 @@ Portfolio
 https://aditya-thakur-dev.netlify.app
 
 Email
-[adityathakur353465@gmail.com](mailto:adityathakur353465@gmail.com)
+[adityathakur89362@gmail.com](mailto:adityathakur89362@gmail.com)
