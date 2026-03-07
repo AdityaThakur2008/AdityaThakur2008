@@ -100,12 +100,6 @@ Features:
 
 ---
 
-# 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThakur2008\&layout=compact\&theme=tokyonight)
-
----
-
 # 🌐 Connect With Me
 
 LinkedIn
