@@ -180,7 +180,8 @@ https://www.linkedin.com/in/aditya-thakur-4a4151369/
 
 🌐 **Portfolio**
 
-https://aditya-thakur-dev.netlify.app
+www.adityathakur.co.in
+
 
 📧 **Email**
 
