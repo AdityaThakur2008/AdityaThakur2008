@@ -1,192 +1,145 @@
-# Hi, I'm Aditya 👋
+# Hey, I'm Aditya Thakur 👋
 
-💻 Backend & Full Stack Developer  
-🤖 Building AI-powered products with Node.js, Prisma, PostgreSQL & Next.js  
-🚀 Currently building **SmartSpend.ai** — an AI-powered personal finance platform.  
-📍 India
+### Full-Stack Developer | React | Next.js | Node.js | PostgreSQL
 
----
+I build full-stack applications with a focus on backend engineering, APIs, authentication, databases, and practical AI integrations.
 
-# 🚀 About Me
+I'm currently focused on becoming a production-ready software developer by building real products, strengthening DSA and CS fundamentals, and learning system design.
 
-I'm a Computer Science student passionate about building scalable backend systems, analytics dashboards, and AI-powered applications.
-
-I enjoy solving real-world problems by combining modern backend technologies with AI.
-
-Currently focusing on:
-
-- Backend Development
-- System Design Fundamentals
-- REST API Development
-- Database Design
-- AI Integration
-- Building products in public
+* 🔭 Building **SmartSpend** — an AI-powered personal finance platform
+* 🧠 Learning **DSA, backend architecture, databases & system design**
+* ⚡ Exploring **AI-assisted software development and LLM integrations**
+* 🇮🇳 India
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Featured Projects
 
-## Languages
+### 💸 SmartSpend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
+AI-powered personal finance management platform.
 
-## Frontend
+**Highlights**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+* Transaction management with search, filters and pagination
+* Analytics dashboard for income, expenses and spending trends
+* JWT authentication with HTTP-only cookies
+* Layered Express architecture with Prisma and PostgreSQL
+* AI-powered financial insights using Google Gemini
+* Docker-based local development
 
----
+**Stack:** Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Docker · Gemini AI
 
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+[Live Demo](https://smart-spend-eosin.vercel.app) · [Repository](https://github.com/AdityaThakur2008/smartSpend)
 
 ---
 
-## Database
+### 🎥 TalkSphere
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+Real-time video conferencing application.
 
----
+**Highlights**
 
-## ORM
+* 1:1 and group video calls with WebRTC
+* Screen sharing
+* Real-time chat with Socket.IO
+* JWT authentication and protected routes
+* Call history
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+**Stack:** React · Node.js · Express · Socket.IO · WebRTC · MongoDB · JWT
 
----
-
-## DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## AI
-
-- AI APIs (Gemini, OpenAI)
-- Prompt Engineering
-- LLM Integration
----
-
-# 🚀 Featured Projects
-
-## 💰 SmartSpend.ai (Currently Building)
-
-AI-powered Personal Finance Management Platform.
-
-### Features
-
-- JWT Authentication
-- Cookie Authentication
-- Transaction CRUD
-- Dashboard Analytics
-- Monthly Reports
-- Pagination
-- Search & Filtering
-- Prisma ORM
-- PostgreSQL
-- Docker
-- AI Financial Advisor (Coming Soon)
-
-**Tech Stack**
-
-Node.js • Express.js • PostgreSQL • Prisma • Docker • Gemini AI
+[Live Demo](https://talk-sphere-p8s5.onrender.com/) · [Repository](https://github.com/AdityaThakur2008/Talk-Sphere-Conferencing-App)
 
 ---
 
-## 🤖 AI Sustainable Commerce System
+### 💼 MyLinkedIn
 
-An AI-powered backend system that automates:
+Full-stack professional networking platform.
 
-- Product Categorization
-- SEO Tag Generation
-- Sustainability Filtering
-- B2B Proposal Generation
+**Highlights**
 
-**Tech Stack**
+* JWT authentication and protected routes
+* User profiles and profile editing
+* Posts, likes and comments
+* Connection requests and network management
+* Next.js frontend with Node.js/Express backend
 
-Node.js • Express.js • MongoDB • Gemini AI
+**Stack:** Next.js · React · Node.js · Express · MongoDB · JWT · MUI
 
----
-
-## 💼 LinkedIn Clone
-
-A full-stack professional networking platform featuring:
-
-- Authentication
-- User Profiles
-- Posts
-- Connections
-- Modern UI
-
-**Tech Stack**
-
-MERN Stack • Next.js
+[Live Demo](https://skill-share-linked-in-clone-full-st.vercel.app/) · [Repository](https://github.com/AdityaThakur2008/Skill_share_linkedIn_clone_FULL_STACK_PROJECT)
 
 ---
 
-## 🎥 TalkSphere
+### 📈 Zerodha Clone
 
-Real-time Video Conferencing Application.
+Full-stack trading platform inspired by Zerodha.
 
-### Features
+**Highlights**
 
-- WebRTC
-- Socket.io
-- Live Video Calls
-- Peer-to-Peer Communication
+* JWT + cookie authentication
+* Orders, holdings and watchlist
+* Separate frontend and dashboard applications
+* Protected routes
+* Stock data visualization
 
----
+**Stack:** React · Node.js · Express · MongoDB · JWT · Chart.js
 
-# 📈 Currently Learning
-
-- Advanced Backend Development
-- Prisma ORM
-- PostgreSQL Performance
-- AI Integration
-- System Design
-- Docker
-- Scalable API Architecture
+[Repository](https://github.com/AdityaThakur2008/ZERODHA_CLONE)
 
 ---
 
-# 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AdityaThakur2008&theme=tokyonight)
+**Languages**
+JavaScript · TypeScript · Java · Python · SQL
 
----
+**Frontend**
+React · Next.js · Tailwind CSS · MUI
 
-# 🌱 2026 Goals
+**Backend**
+Node.js · Express.js · REST APIs · Socket.IO
 
-- Build production-ready backend applications
-- Master Backend Engineering
-- Learn System Design
-- Secure a Backend/Full Stack Internship
-- Build AI-powered SaaS products
+**Database & ORM**
+PostgreSQL · MongoDB · Prisma
 
----
+**Authentication**
+JWT · HTTP-only Cookies · OAuth / Google Auth
 
-# 🤝 Connect With Me
+**Tools & DevOps**
+Git · GitHub · Docker · Postman · Vercel · Render
 
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/aditya-thakur-4a4151369/
-
-🌐 **Portfolio**
-
-www.adityathakur.co.in
-
-
-📧 **Email**
-
-adityathakur89362@gmail.com
+**AI**
+Gemini API · OpenAI APIs · LLM Integration · AI-assisted Development
 
 ---
 
-⭐ *"Learning in Public • Building in Public • Shipping Real Products."*
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* System Design fundamentals
+* Advanced backend architecture
+* Database design & PostgreSQL
+* Testing and production engineering
+* AI/LLM application development
+
+---
+
+## 📊 GitHub Activity
+
+I use GitHub to build, experiment, learn, and ship real projects.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaThakur2008\&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/aditya-thakur-4a4151369/)
+* 🌐 [Portfolio](https://www.adityathakur.co.in/)
+* 📧 [adityathakur89362@gmail.com](mailto:adityathakur89362@gmail.com)
+
+---
+
+### ⚡ Build. Learn. Ship. Improve.
+
+> Learning in public, building real products, and getting better every day.
