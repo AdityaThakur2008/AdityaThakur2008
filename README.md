@@ -30,7 +30,7 @@ AI-powered personal finance management platform.
 
 **Stack:** Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Docker · Gemini AI
 
-[Live Demo](https://smart-spend-eosin.vercel.app) · [Repository](https://github.com/AdityaThakur2008/smartSpend)
+[Live Demo](https://smart-spend-zeta.vercel.app/) · [Repository](https://github.com/AdityaThakur2008/smartSpend)
 
 ---
 
