@@ -70,24 +70,6 @@ Full-stack professional networking platform.
 
 ---
 
-### 📈 Zerodha Clone
-
-Full-stack trading platform inspired by Zerodha.
-
-**Highlights**
-
-* JWT + cookie authentication
-* Orders, holdings and watchlist
-* Separate frontend and dashboard applications
-* Protected routes
-* Stock data visualization
-
-**Stack:** React · Node.js · Express · MongoDB · JWT · Chart.js
-
-[Repository](https://github.com/AdityaThakur2008/ZERODHA_CLONE)
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**
