@@ -52,7 +52,7 @@ Real-time video conferencing application.
 
 ---
 
-### 💼 MyLinkedIn
+### 💼 SkillShare
 
 Full-stack professional networking platform.
 
